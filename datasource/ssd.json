@@ -1,0 +1,52 @@
+{
+    "tables": {
+        "tab3": {
+            "records": [
+                [
+                    "7", 
+                    "wwfhgkww@gmail.com"
+                ], 
+                [
+                    "6", 
+                    "wwfhgkww@gmail.com"
+                ]
+            ], 
+            "columns": [
+                "int", 
+                "email"
+            ]
+        }, 
+        "tab8": {
+            "records": [], 
+            "columns": [
+                "int", 
+                "int", 
+                "str"
+            ]
+        }, 
+        "tab6": {
+            "records": [], 
+            "columns": [
+                "int", 
+                "int", 
+                "str"
+            ]
+        }, 
+        "tab5": {
+            "records": [], 
+            "columns": [
+                "int", 
+                "int", 
+                "str"
+            ]
+        }, 
+        "tab4": {
+            "records": [], 
+            "columns": [
+                "int", 
+                "double"
+            ]
+        }
+    }, 
+    "database": "ssd.json"
+}
